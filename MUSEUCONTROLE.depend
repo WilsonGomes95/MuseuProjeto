@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701369482 source:/home/fullvpn/Documentos/MUSEUCONTROLE/main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<unistd.h>
+	<ctype.h>
+
